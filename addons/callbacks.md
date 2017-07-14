@@ -43,7 +43,7 @@ NODE_MODULE(addon, Init)
 // test.js
 const addon = require('./build/Release/addon');
 
-addon((msg) => {
+addon00000000000000((msg) => {
   console.log(msg);
 // 打印: 'hello world'
 });
